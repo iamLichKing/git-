@@ -7,5 +7,7 @@ git log 查看详细提交日志
 git log —-pretty=oneline 查看提交日志
 git reflog 查看版本历史日志
 git reset —hard “commitID版本号”  切换版本
+“测试暂存区和工作区”
+
  
 
