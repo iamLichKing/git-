@@ -10,7 +10,8 @@ git reset —-hard “commitID版本号”  切换版本
 “测试暂存区和工作区”
 git管理的是修改，不是文件，每次修改如果不add到暂存区，那就不会加入到commit中。
 git checkout —- 文件名 撤销没有add的修改
-git reset HEAD 文件名 回到最新版本 （真对已经add的）
+git reset HEAD 文件名 回到最新版本 （真对已经add的）回退后用git checkout —-文件名清除修改
+
 
 
 
