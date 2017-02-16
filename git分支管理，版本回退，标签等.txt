@@ -8,6 +8,8 @@ git log —-pretty=oneline 查看提交日志
 git reflog 查看版本历史日志
 git reset —hard “commitID版本号”  切换版本
 “测试暂存区和工作区”
+git管理的是修改，不是文件，每次修改如果不add到暂存区，那就不会加入到commit中。
+
 
  
 
