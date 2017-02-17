@@ -15,7 +15,7 @@ git reset HEAD 文件名 回到最新版本 （真对已经add的）回退后用
 -迁出远程分支
 git checkout -d dev 删除dev分支 -D强制删除
 git push origin —-delete dev 删除远程分支
-解决冲突
+解决featurel冲突
 
 
 
